@@ -57,3 +57,7 @@ I also founded the **Samoa Mo Samoa Chamber of Commerce (2020)** and **Native Hu
 <!-- Y77F-GH-20261018-19A08D5A -->
 <!-- Canary: Gold thread over blue water ties each bridge plank to the next. -->
 <!-- Y77F-GHP-20261020-25c09c60 -->
+
+## Content IDs and public-copy checks
+
+The Y77FAST website uses content ID **Y77F-WEB-779B5D10FD30**. [View the content-ID registry, signed fingerprints, and verification instructions](provenance/README.md). Public IDs help locate matching copies; they do not identify private or offline use.

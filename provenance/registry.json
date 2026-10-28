@@ -1,0 +1,62 @@
+{
+  "format": "y77fast-public-content-registry/v1",
+  "organization": "Y77FAST SOFTWARE FOUNDATION",
+  "website_content_id": "Y77F-WEB-779B5D10FD30",
+  "website_release_id": "Y77F-REL-402F80E0A55E",
+  "website_manifest": "website-fingerprints.json",
+  "requested_domain": "y77fastsoftwarefoundation.com",
+  "sources": [
+    {
+      "repository": "FavorHumanity/FavorHumanity",
+      "ids": [
+        "Y77F-GHP-20261020-25c09c60",
+        "Y77F-GH-20261018-19A08D5A"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/toa-offline-first",
+      "ids": [
+        "Y77F-TOA-README-20261026-0cab23e8"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/y77fast-digital-id-demo",
+      "ids": [
+        "Y77F-DEMO-20261018-d9a1048b",
+        "Y77F-GHP-20261020-9a476cc8"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/y77fast-securezone",
+      "ids": [
+        "Y77F-REPO-SZ-20261019-8FADAA66",
+        "Y77F-GHP-20261020-f17c2a9e"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/y77fast-dev-setup",
+      "ids": [
+        "Y77F-REPO-20261019-1C78DF61",
+        "Y77F-GHP-20261020-543d7e5e"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/y77fast-articles",
+      "ids": [
+        "Y77F-RDM-20261024-32814530"
+      ]
+    },
+    {
+      "repository": "FavorHumanity/y77fast-kyc-tiers",
+      "ids": []
+    }
+  ],
+  "scope": "Publicly visible forks and indexed copies that retain a document ID or distinctive text.",
+  "limitations": [
+    "Removing or rewriting a marker can defeat marker searches.",
+    "Private, offline, and unindexed reuse is not observable through public searches.",
+    "A match is a review lead; it does not establish unauthorized use or legal infringement.",
+    "Fingerprints verify exact bytes for the recorded release; the signature and key should be compared with the record in this repository."
+  ],
+  "copyright": "© 2026 Y77FAST SOFTWARE FOUNDATION. All rights reserved."
+}
