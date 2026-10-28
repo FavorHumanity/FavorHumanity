@@ -29,4 +29,6 @@ Public checks cannot see private or offline use, identify everyone who downloads
 
 ## Recurring public checks
 
-The [Public Content Watch workflow](../../actions/workflows/y77fast-content-watch.yml) is configured for Fridays at 16:23 UTC, registry changes, and manual runs. It checks public forks and indexed GitHub code for retained IDs. Reports appear in each run's job summary. API errors are shown as incomplete coverage, not as proof that no copies exist. The workflow has read-only repository permission and sends no messages or takedown notices.
+The [Public Content Watch workflow](../.github/workflows/y77fast-content-watch.yml) is configured for Fridays at 16:23 UTC, registry changes, and manual runs. It checks public forks and indexed GitHub code for retained IDs. Reports appear in each run's job summary. API errors are shown as incomplete coverage, not as proof that no copies exist. The workflow has read-only repository permission and sends no messages or takedown notices.
+
+[First verified workflow run](https://github.com/FavorHumanity/FavorHumanity/actions/runs/40612281312): completed successfully.
