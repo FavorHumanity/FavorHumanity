@@ -2,15 +2,15 @@
   "format": "y77fast-content-provenance/v1",
   "payload": {
     "document_id": "Y77F-WEB-779B5D10FD30",
-    "release_id": "Y77F-REL-402F80E0A55E",
+    "release_id": "Y77F-REL-D053B22279F8",
     "organization": "Y77FAST SOFTWARE FOUNDATION",
     "copyright": "© 2026 Y77FAST SOFTWARE FOUNDATION. All rights reserved.",
     "requested_domain": "y77fastsoftwarefoundation.com",
     "reference_url": "https://github.com/FavorHumanity/FavorHumanity/blob/main/provenance/README.md",
-    "created_at_utc": "2026-10-28T00:51:21.237Z",
+    "created_at_utc": "2026-10-28T00:57:03.660Z",
     "hash_algorithm": "SHA-256",
     "files": {
-      "index.html": "3d2531a7c8cd59c52b04f7a1726a78de93b7ae7ddda41e89fc0c8128cb9d4000",
+      "index.html": "e6018fede542005a74680e7abc6bbda3717879147585b65a8109847bb2a67d87",
       "styles.css": "25bce4dbd22e6d36f6e87deec0feac30a96f32f7bf4f2c4d04756e42420aa4ed",
       "script.js": "da7bae3b2ad68d38e1e2a34d466618bc8980975d686823c56a335074617aec16",
       "favicon.svg": "e319f49d26bfa60c5643ffc0312b689b0cef60f1baed5a575713231ef01fbd82"
@@ -19,8 +19,8 @@
   "signature": {
     "algorithm": "Ed25519",
     "payload_encoding": "UTF-8 JSON.stringify(payload)",
-    "public_key_spki_base64": "MCowBQYDK2VwAyEAvHqlDMi+EqYUE1Ws4gMVjVdi/7DGWvtlMQPlV5M/8Z0=",
-    "public_key_sha256": "6de60804474f7ccbf986a6e7d52da31fc573735be55e3ec3dc4e7f8621275d56",
-    "value_base64": "0d4swCXz3qVK3XGGDVHkBysP0uxmgyYLGyD5tpZs/By/BeRMzsprn3TiBxZQ3ldg1VAcv2o5hgRonkpdhPYOAw=="
+    "public_key_spki_base64": "MCowBQYDK2VwAyEAhFmehrMg9CUUbiJ4agJUNou5xeAAnDT5RjDnjsOTmQc=",
+    "public_key_sha256": "5180da658f606adf5615e546569e7a4fbb492f491f6dd2b2dcb40681c6be6391",
+    "value_base64": "m7uTfxWcVbkHJMtBEx+7gwSGeZJVhfR+kjfy3k+X35FdZXPd6rib2Qj48lh1qy81tmiVMAJFQd2Me13Pk9wmBw=="
   }
 }

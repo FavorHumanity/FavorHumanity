@@ -2,7 +2,7 @@
   "format": "y77fast-public-content-registry/v1",
   "organization": "Y77FAST SOFTWARE FOUNDATION",
   "website_content_id": "Y77F-WEB-779B5D10FD30",
-  "website_release_id": "Y77F-REL-402F80E0A55E",
+  "website_release_id": "Y77F-REL-D053B22279F8",
   "website_manifest": "website-fingerprints.json",
   "requested_domain": "y77fastsoftwarefoundation.com",
   "sources": [
@@ -58,5 +58,7 @@
     "A match is a review lead; it does not establish unauthorized use or legal infringement.",
     "Fingerprints verify exact bytes for the recorded release; the signature and key should be compared with the record in this repository."
   ],
-  "copyright": "© 2026 Y77FAST SOFTWARE FOUNDATION. All rights reserved."
+  "copyright": "© 2026 Y77FAST SOFTWARE FOUNDATION. All rights reserved.",
+  "watcher_workflow": ".github/workflows/y77fast-content-watch.yml",
+  "watcher_schedule_utc": "Fridays at 16:23 UTC"
 }

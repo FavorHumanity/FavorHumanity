@@ -1,0 +1,33 @@
+name: Y77FAST Public Content Watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 16 * * 5'
+  push:
+    branches: [main]
+    paths:
+      - 'provenance/**'
+      - '.github/workflows/y77fast-content-watch.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: y77fast-public-content-watch
+  cancel-in-progress: false
+
+jobs:
+  public-copy-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Read the public registry
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+          sparse-checkout: provenance
+      - name: Check public forks and retained document IDs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node provenance/check-public-reuse.mjs
