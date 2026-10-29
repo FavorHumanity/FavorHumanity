@@ -14,12 +14,18 @@
 
 <p align="center"><b>SECURE · SPEED · TRUST</b><br>Technology that safely serves people.</p>
 
+<p align="center"><a href="https://y77fastsoftwarefoundation.com"><b>Official website: y77fastsoftwarefoundation.com</b></a></p>
+
+Building Secure First learning prototypes and architecture for Samoa and the Pacific: **Secure Toa (CI) Offline First**, digital identity demonstrations, SecureZone, secure development practices, and sovereign-data planning.
+
+**Current status:** independent prototypes and proposals. No government authorization or production deployment is claimed.
+
 I am the founder of **Y77FAST Software Foundation** and an **Engineering Technology & Computer Science student at American River College**. Born and raised in Samoa and now based in Sacramento, California, I am building independent prototypes and practical technical skills to serve Samoa and the surrounding Pacific islands.
 
 My current work explores digital identity, offline operation, data integrity, signed data, and secure development practices. Project documentation explains the current scope, status, and known limitations.
 
 <p align="center">
-  🔗 <a href="https://github.com/FavorHumanity/toa-offline-first">Toa Offline First</a> ·
+  🔗 <a href="https://github.com/FavorHumanity/toa-offline-first">Secure Toa (CI) Offline First</a> ·
   <a href="https://github.com/FavorHumanity/y77fast-digital-id-demo">Digital ID Wallet demo</a> ·
   <a href="https://www.linkedin.com/in/favortaueva">LinkedIn</a>
 </p>
@@ -30,7 +36,7 @@ My current work explores digital identity, offline operation, data integrity, si
 
 | Project | What it does | Status |
 |---|---|---|
-| [Toa Offline First](https://github.com/FavorHumanity/toa-offline-first) | Offline browser prototype with proposed wallet limits and ledger-verification demonstrations | Prototype; fictional data |
+| [Secure Toa (CI) Offline First](https://github.com/FavorHumanity/toa-offline-first) | Offline browser prototype with proposed wallet limits and ledger-verification demonstrations | Prototype; fictional data |
 | [Digital ID Wallet demo](https://github.com/FavorHumanity/y77fast-digital-id-demo) | Tiered-limit wallet and SHA-256 hash-chained ledger demonstration | Demo; fictional data |
 | [KYC Tier Classifier](https://github.com/FavorHumanity/y77fast-kyc-tiers) | Python classifier that distinguishes proposed internal limits from cited legal references | Learning prototype |
 | [SecureZone](https://github.com/FavorHumanity/y77fast-securezone) | Signed school-zone maps and a simulated speed-cap supervisor | Simulation; fictional zones |
