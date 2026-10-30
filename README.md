@@ -1,4 +1,4 @@
-<!-- Owner: Favor Figota Taueva <favortaueva@gmail.com> | © 2026 Favor Figota Taueva · Y77FAST SOFTWARE FOUNDATION Corp. All rights reserved. | Polish Doc ID: Y77F-GHP-20261020-25c09c60 -->
+<!-- Owner: Favor Figota Taueva <sst@y77fastsoftwarefoundation.com> | © 2026 Favor Figota Taueva · Y77FAST SOFTWARE FOUNDATION Corp. All rights reserved. | Polish Doc ID: Y77F-GHP-20261020-25c09c60 -->
 <!-- Owner: Favor Figota Taueva | © 2026 Y77FAST SOFTWARE FOUNDATION Corp. All rights reserved. | Doc ID: Y77F-GH-20261018-19A08D5A -->
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="Favor Figota Taueva: Securing Data bridge banner"></p>
 
@@ -16,7 +16,7 @@
 
 <p align="center"><a href="https://y77fastsoftwarefoundation.com"><b>Official website: y77fastsoftwarefoundation.com</b></a></p>
 
-Building Secure First learning prototypes and architecture for Samoa and the Pacific: **Secure Toa (CI) Offline First**, digital identity demonstrations, SecureZone, secure development practices, and sovereign-data planning.
+Building Secure First learning prototypes and architecture for Samoa and the Pacific: **Secure Toa (SI) Offline First**, digital identity demonstrations, SecureZone, secure development practices, and sovereign-data planning.
 
 **Current status:** independent prototypes and proposals. No government authorization or production deployment is claimed.
 
@@ -25,7 +25,7 @@ I am the founder of **Y77FAST Software Foundation** and an **Engineering Technol
 My current work explores digital identity, offline operation, data integrity, signed data, and secure development practices. Project documentation explains the current scope, status, and known limitations.
 
 <p align="center">
-  🔗 <a href="https://github.com/FavorHumanity/toa-offline-first">Secure Toa (CI) Offline First</a> ·
+  🔗 <a href="https://github.com/FavorHumanity/toa-offline-first">Secure Toa (SI) Offline First</a> ·
   <a href="https://github.com/FavorHumanity/y77fast-digital-id-demo">Digital ID Wallet demo</a> ·
   <a href="https://www.linkedin.com/in/favortaueva">LinkedIn</a>
 </p>
@@ -36,7 +36,7 @@ My current work explores digital identity, offline operation, data integrity, si
 
 | Project | What it does | Status |
 |---|---|---|
-| [Secure Toa (CI) Offline First](https://github.com/FavorHumanity/toa-offline-first) | Offline browser prototype with proposed wallet limits and ledger-verification demonstrations | Prototype; fictional data |
+| [Secure Toa (SI) Offline First](https://github.com/FavorHumanity/toa-offline-first) | Offline browser prototype with proposed wallet limits and ledger-verification demonstrations | Prototype; fictional data |
 | [Digital ID Wallet demo](https://github.com/FavorHumanity/y77fast-digital-id-demo) | Tiered-limit wallet and SHA-256 hash-chained ledger demonstration | Demo; fictional data |
 | [KYC Tier Classifier](https://github.com/FavorHumanity/y77fast-kyc-tiers) | Python classifier that distinguishes proposed internal limits from cited legal references | Learning prototype |
 | [SecureZone](https://github.com/FavorHumanity/y77fast-securezone) | Signed school-zone maps and a simulated speed-cap supervisor | Simulation; fictional zones |
